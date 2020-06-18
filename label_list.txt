@@ -1,0 +1,11 @@
+0:[default]
+1:apple
+2:banana
+3:blueberry
+4:cherrytomato
+5:dragonfruit
+6:grape
+7:kiwifruit
+8:lemon
+9:muskmelon
+10:orange
